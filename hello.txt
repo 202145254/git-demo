@@ -1,5 +1,3 @@
-hello wutao! hello shangguigu! hello git!111111
-hello wutao! hello shangguigu! hello git!222222
 hello wutao! hello shangguigu! hello git!
 hello wutao! hello shangguigu! hello git!
 hello wutao! hello shangguigu! hello git!
@@ -21,4 +19,6 @@ hello wutao! hello shangguigu! hello git!
 hello wutao! hello shangguigu! hello git!
 hello wutao! hello shangguigu! hello git!
 hello wutao! hello shangguigu! hello git!
-lhc three modify hello.txt 
+hello wutao! hello shangguigu! hello git!
+hello wutao! hello shangguigu! hello git!
+lhc four modify hello.txt 
